@@ -5,7 +5,9 @@ This projects implements a weight, undirectional graph and allows users to find 
 Interfaces used:
 
 -node_info
+
 -weighted_graph
+
 -weighted_graph_algorithms
 
 node_info represents the set of operations applicable on a node in the graph.
